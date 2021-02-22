@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">The Assignment</string>
+    <string name="addBtnTxt">Add</string>
+    <string name="add_todo_placeholder">Add Todo...</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="welcome">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="submit">Submit</string>
+    <string name="enter_password">Enter Password</string>
+</resources>
